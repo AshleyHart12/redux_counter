@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Description:
 This is a simple Redux Counter as I learn how to implement redux into React
 
-
+![giphy demonstration](https://media.giphy.com/media/Rjf4oXbvTSKGXJumhK/giphy.gif)
 
 
 #### To start, run either:
