@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Description:
-This is a simple Redux Counter as I learn how to implement redux into React
+This is a simple Redux Counter as I learn how to implement Redux into React
 
 ![giphy demonstration](https://media.giphy.com/media/Rjf4oXbvTSKGXJumhK/giphy.gif)
 
